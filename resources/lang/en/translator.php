@@ -15,7 +15,7 @@ return [
 
     // Main titles
 
-    'welcome_message' => 'Mire se vini',
+    'welcome_message' => 'Welcome',
     'issues_title' => 'Home',
     'issue_title' => 'Home',
     'issues_list_title' => 'Issues List',
@@ -115,7 +115,7 @@ return [
     'label_comment' => 'Comment',
     'label_image' => 'Image',
     'label_description' => '',
-    'label_tag' => 'Please select a keyword',
+    'label_tag' => 'Please select under which category your issue is related to?',
     'label_header' => 'Header',
     'label_body' => 'Body',
     'leave_a_comment'=> 'Leave a Comment',
@@ -138,7 +138,7 @@ return [
     'restore_issue_popup_title' => 'Restore Issue', 
     'delete_question_issue' => "Are you sure that you want to delete this Issue",
     'delete_question_issue_permanently' => "Are you sure that you want to delete this Issue permanently",
-    'issue_created' => ' Thankyou for creating new Issue!',
+    'issue_created' => ' Thank you for submitting a new Issue, once it is reviewd and approved by the Admin it will be posted here!',
     
     //Comments Admin
 

@@ -6,7 +6,7 @@
                     <div class="w-100 d-inline-block">
                         <div class="comment-text-wrapper">
                         
-                          @if(App::getLocale() =='sq') Postuar nga : @else  Postet by @endif  <strong>{{$comment->user->name}}</strong> @if(App::getLocale() =='sq') në Çështjen  @else  on @endif @if($comment->issue)<strong>{{$comment->issue->title}}</strong> @endif @if(App::getLocale() =='en') Issue. @endif
+                          @if(App::getLocale() =='sq') Postuar nga : @else  Posted by @endif  <strong>{{$comment->user->name}}</strong> @if(App::getLocale() =='sq') në Çështjen  @else  on @endif @if($comment->issue)<strong>{{$comment->issue->title}}</strong> @endif @if(App::getLocale() =='en') Issue. @endif
                         </div>
                         <div class="w-100 d-block d-md-none">
                             <p class="p-3 mb-2 bg-light "> {{$comment->comment}}</p>

@@ -22,12 +22,14 @@
             <form id="issues-form" action="{{route('frontend.issues.store')}}"  method="POST">
                        {{ csrf_field() }} 
                     <div class="form-group">
-                        <label for="title">@lang('translator.label_title')</label>
+                          <!--Put placeholders instead of the label below -->
+                        <!-- <label for="title">@lang('translator.label_title')</label>-->
                         <input class="form-control" placeholder="Please write the title of your issue? " name="title" id="title" type="text" required>
                    
                     </div>
                     <div class="form-group">
-                    <label for="description">@lang('translator.label_description')</label>
+                          <!--Put placeholders instead of the label below -->
+                   <!-- <label for="description">@lang('translator.label_description')</label> -->
                           <textarea class="textarea form-control" placeholder="Please write the description of your issue?" name="description" id="description" ></textarea>
                
                     </div>
