@@ -52,7 +52,7 @@ return [
     'form_page_description' => 'Form Page Description',
     'sidebar_description' => 'Sidebar Description',
     'editing'=>'Editing',
-    'copyright' => 'Copyright',
+    'copyright' => 'Assembly of the Republic of Kosovo',
     'right_reserved' => 'All Rights Reserved',
     'powered_by' => 'Open Data Kosovo',
     // Buttons and Labels
@@ -115,7 +115,7 @@ return [
     'label_comment' => 'Comment',
     'label_image' => 'Image',
     'label_description' => '',
-    'label_tag' => 'Please select under which category your issue is related to?',
+    'label_tag' => 'Please select a keyword',
     'label_header' => 'Header',
     'label_body' => 'Body',
     'leave_a_comment'=> 'Leave a Comment',
@@ -138,7 +138,7 @@ return [
     'restore_issue_popup_title' => 'Restore Issue', 
     'delete_question_issue' => "Are you sure that you want to delete this Issue",
     'delete_question_issue_permanently' => "Are you sure that you want to delete this Issue permanently",
-    'issue_created' => ' Thank you for submitting a new Issue, once it is reviewd and approved by the Admin it will be posted here!',
+    'issue_created' => ' Thankyou for creating new Issue!',
     
     //Comments Admin
 
