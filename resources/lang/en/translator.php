@@ -15,7 +15,7 @@ return [
 
     // Main titles
 
-    'welcome_message' => 'Welcome',
+    'welcome_message' => 'Mire se vini',
     'issues_title' => 'Home',
     'issue_title' => 'Home',
     'issues_list_title' => 'Issues List',
