@@ -109,7 +109,7 @@ return [
     'delete_application' => 'Delete Application',
     'delete_application_question' => 'Are you sure you want to delete this application?',
     'empty_forms' => 'Please create the mail template to notice the user',
-    'form_created' => 'Thank you for your application. form more information check your email!',
+    'form_created' => 'Thank you for your application form more information check your email!',
     // Right Sidebar
 
     'sidebar_tag_title'=> 'Tag Cloud',

@@ -42,7 +42,7 @@
                             <div class="col-12">
                                 <div class="form-group">
                                     <label for="name">@lang('translator.label_name')</label>
-                                    <input placeholder="@lang('translator.placelholder_form_name')" value="{{Auth::user()->name}}" class="form-control" name="name" id="name" type="text">
+                                    <input placeholder="@lang('translator.placelholder_form_name')" class="form-control" name="name" id="name" type="text">
                                 </div>
                             </div>
                             
@@ -63,7 +63,7 @@
                             <div class="col-12">
                                 <div class="form-group">
                                     <label for="email">@lang('translator.label_email')</label>
-                                    <input placeholder="@lang('translator.placelholder_form_email')" class="form-control" value="{{Auth::user()->email}}" name="email" id="email" type="email">
+                                    <input placeholder="@lang('translator.placelholder_form_email')" class="form-control"  name="email" id="email" type="email">
                                 
                                 </div> 
                             </div>
@@ -103,7 +103,7 @@
                                 <div class="col-12">
                                     <div class="form-group">
                                         <label for="name">@lang('translator.label_name')</label>
-                                        <input placeholder="@lang('translator.placelholder_form_name')" value="{{Auth::user()->name}}" class="form-control" name="name" id="name" type="text">
+                                        <input placeholder="@lang('translator.placelholder_form_name')"  class="form-control" name="name" id="name" type="text">
                                     </div>
                                 </div>
                                 <div class="col-7">
@@ -123,7 +123,7 @@
                                 <div class="col-12">
                                     <div class="form-group">
                                         <label for="email">@lang('translator.label_email')</label>
-                                        <input placeholder="@lang('translator.placelholder_form_email')" class="form-control" value="{{Auth::user()->email}}" name="email" id="email" type="email">
+                                        <input placeholder="@lang('translator.placelholder_form_email')" class="form-control"  name="email" id="email" type="email">
                                     </div> 
                                 </div>
                                 <div class="col-12">

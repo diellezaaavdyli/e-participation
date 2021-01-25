@@ -14,7 +14,7 @@ return [
     */
 
     // Main titles
-
+    'about_title'=> 'About',
     'welcome_message' => 'Welcome',
     'issues_title' => 'Home',
     'issue_title' => 'Home',

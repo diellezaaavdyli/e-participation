@@ -14,11 +14,11 @@ class HomeController extends Controller
      */
     public function index()
     {
-        if(auth()->check()){
+        
             return redirect()->route('frontend.issues.index');
-        } else {
-            return redirect()->route('frontend.auth.login');
-        }
+      
+          
+        
       
     }
 }
