@@ -3,6 +3,9 @@
 @section('title', __('translator.contact_title'))
 @section('content')
 
-<h1>Contact us</h1>
 
+
+<p style="font-weight:bold; font-size:20px; text-align:center;">Republic of Kosovo</p>
+            <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
+            <hr>
 @endsection

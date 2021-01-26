@@ -2,8 +2,8 @@
 
 @section('title', __('translator.about_title'))
 @section('content')
-<div >
-<h1 >About</h1>
+<!-- <div >
+<h1 >About</h1> -->
 <!-- <p><em>eParticipation is an inclusive platform which aims to engage citizens
  in decision-making and public service delivery by submitting issues to specific 
  Members of the Assembly, following the activities of the Assembly, 
@@ -53,7 +53,12 @@
             <li>Flamuri i Republikës së Kosovës</li>
         </ul> -->
 
- </div>
+ <!-- </div> -->
+    
+            <p style="font-weight:bold; font-size:20px; text-align:center;">Republic of Kosovo</p>
+            <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
+            <hr>
+            
 
 @endsection
 
