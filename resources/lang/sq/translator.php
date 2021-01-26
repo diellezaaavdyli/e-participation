@@ -15,21 +15,23 @@ return [
 
     // Main titles
 
-    'welcome_message' => 'Mire se vini',
-    'issues_title' => 'Issues',
-    'issue_title' => 'Issues',
+    'welcome_message' => 'Mirë se vini',
+    'issues_title' => 'Ballina',
+    'issue_title' => 'Ballina',
     'issues_list_title' => 'Issues List',
     'deleted_issues_title' => 'Deleted Issues',
-    'actvities_title' => 'Activities',
+    'actvities_title' => 'Agjenda',
     'deleted_actvities_title' => 'Deleted Activities',
-    'forms_title' => 'Electrionic Forms',
+    'forms_title' => 'Vizito & Merr pjesë',
     'archives_title' => 'Archives',
     'comments_title' => 'Comments',
     'tags_title' => 'Tags',
     'deleted_tags_title' => 'Deleted tags',
     'plenary_form_manager' => 'Plenary Form Management',
     'visit_form_manager' => 'Visit Form Management',
-    
+    'copyright' => 'Kuvendi i Republikës së Kosovës',
+    'right_reserved' => 'Të gjitha të drejtat e rezervuara',
+    'powered_by' => 'Open Data Kosovo',
     // Buttons and Labels
 
     'save' => 'Save',
@@ -107,7 +109,7 @@ return [
     'delete_application' => 'Delete Application',
     'delete_application_question' => 'Are you sure you want to delete this application?',
     'empty_forms' => 'Please create the mail template to notice the user',
-    'form_created' => 'Thankyou for your application. form more information check your email!',
+    'form_created' => 'Thank you for your application form more information check your email!',
     // Right Sidebar
 
     'sidebar_tag_title'=> 'Tag Cloud',

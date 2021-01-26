@@ -34,7 +34,7 @@
     <div id="app">
 
               
-<div class="user-bar @if(!Auth::check() || $logged_in_user->email_verified_at == null) offline @endif">
+<div class="user-bar ">
     <ul class="list-unstyled c-header-nav d-md-down-none">
         @if(config('boilerplate.locale.status') && count(config('boilerplate.locale.languages')) > 1)
             <li class="c-header-nav-item dropdown lang-list">
@@ -95,21 +95,21 @@
         @endif
     </ul>
 </div>
-@if (Auth::check() && $logged_in_user->email_verified_at != null)
+
                 <div class="sidbar-wrapper">
                 @include('frontend.includes.sidebar')
                 </div>
-                @endif
-                <div class="page-content-container {{ Auth::check() && $logged_in_user->email_verified_at != null ? '' : 'w-100' }}">
-                    <div class="content-wrapper {{ Auth::check() && $logged_in_user->email_verified_at != null ? '' : 'w-100' }}" >
+             
+                <div class="page-content-container ">
+                    <div class="content-wrapper" >
                         @include('frontend.includes.topbar')
                         @yield('content')
                     </div>
-                    @if (Auth::check() && $logged_in_user->email_verified_at != null)
+                 
                     <div class="right-sidebar">
                     @include('frontend.includes.right-sidebar')
                     </div>
-                    @endif
+                 
                     <div class="w-100">
                         @include('frontend.includes.footer')
                     </div>
