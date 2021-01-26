@@ -200,8 +200,8 @@ return [
      'not_allowed'=>'Method not allowed',
     //User
     'avatar' =>'Avatar',
-    'register'=>'Register',
-    'login'=>'Login',
+    'register'=>'Sign up',
+    'login'=>'Log in',
     'log_out'=>'Log Out',
     'agree'=>'I agree to the',
     'terms_and_conditions' =>'Terms & Conditions',
