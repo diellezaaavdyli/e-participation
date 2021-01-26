@@ -9,7 +9,7 @@
         <div class="col-12 col-lg-10 text-center page-content-wrapper">
         <p style="font-weight:bold; font-size:20px;">Republic of Kosovo</p>
             <p style="font-weight:bold; font-size:20px;">Assembly of the Republic of Kosovo</p>
-        <hr>
+            <hr style="width:60%;">
             <div class="w-100 mt-4">
             @if($content::returnContentValue('form_description') && $content::returnContentValue('form_description')->description)
                 {!! $content::returnContentValue('form_description')->description !!}

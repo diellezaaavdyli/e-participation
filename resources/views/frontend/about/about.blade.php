@@ -54,10 +54,10 @@
         </ul> -->
 
  <!-- </div> -->
-    
+   
             <p style="font-weight:bold; font-size:20px; text-align:center;">Republic of Kosovo</p>
             <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
-            <hr>
+            <hr style="width:60%;">
             
 
 @endsection
