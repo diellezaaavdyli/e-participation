@@ -9,6 +9,7 @@ use App\Http\Controllers\Frontend\FormController;
 use App\Http\Controllers\Frontend\ReplyController;
 use App\Http\Controllers\Frontend\ActivityFormController;
 use App\Http\Controllers\Frontend\AboutController;
+use App\Http\Controllers\Frontend\ContactController;
 use Tabuna\Breadcrumbs\Trail;
 
 
@@ -40,6 +41,12 @@ Route::get('about', [AboutController::class, 'index'])->name('about.index')
         $trail->parent('frontend.index')
             ->push(__('About'), route('frontend.about.index'));
     });
+Route::get('contact', [ContactController::class, 'index'])->name('contact.index')
+    ->breadcrumbs(function (Trail $trail) {
+        $trail->parent('frontend.index')
+            ->push(__('Contact'), route('frontend.contact.index'));
+    });
+
 Route::get('calendaractivities', [ActivityController::class, 'indexcalendar'])->name('activities.indexcalendar')
 ->breadcrumbs(function (Trail $trail) {
     $trail->parent('frontend.index')

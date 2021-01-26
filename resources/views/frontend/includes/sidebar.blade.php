@@ -22,6 +22,7 @@
                 <li  class="{{ Route::currentRouteName() == 'frontend.activities.index' ? 'active' : '' }}"><a href="{{ route('frontend.activities.index') }}">@lang('translator.actvities_title')</a></li>
                 <li  class="{{ Route::currentRouteName() == 'frontend.forms.index' ? 'active' : '' }}"><a href="{{ route('frontend.forms.index') }}">@lang('translator.forms_title')</a></li>
                 <li  class="{{ Route::currentRouteName() == 'frontend.about.index' ? 'active' : '' }}"><a href="{{ route('frontend.about.index') }}">@lang('translator.about_title')</a></li>
+                <li  class="{{ Route::currentRouteName() == 'frontend.contact.index' ? 'active' : '' }}"><a href="{{ route('frontend.contact.index') }}">@lang('translator.contact_title')</a></li>
             </ul>
 
           

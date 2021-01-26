@@ -14,13 +14,15 @@ return [
     */
 
     // Main titles
-    'about_title'=> 'About',
+    
     'welcome_message' => 'Welcome',
     'issues_title' => 'Home',
     'issue_title' => 'Home',
     'issues_list_title' => 'Issues List',
     'deleted_issues_title' => 'Deleted Issues',
     'actvitiy_title' => 'Activity',
+    'about_title'=> 'About',
+    'contact_title'=>'Contact',
     'mails_title' => 'Mails',
     'actvities_title' => 'Agenda',
     'setings_title' => 'Settings',
