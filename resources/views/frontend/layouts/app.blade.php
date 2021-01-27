@@ -36,6 +36,19 @@
               
 <div class="user-bar ">
     <ul class="list-unstyled c-header-nav d-md-down-none">
+    @if (Auth::check())
+          @inject('user', 'App\Models\User')
+          <img src="{{ $user::returnAuthUserAvatar($logged_in_user) }}" alt="" class="rounded-image">
+          <h5 class="heading4">@lang('translator.welcome_message'),  {{ Auth::user()->name }}</h5>
+          @else
+          <!-- <li  class="{{ Route::currentRouteName() == 'frontend.auth.login' ? 'active' : '' }}"><a href="{{ route('frontend.auth.login') }}">Login</a></li>
+           <li  class="{{ Route::currentRouteName() == 'frontend.auth.register' ? 'active' : '' }}"><a href="{{ route('frontend.auth.register') }}">Register</a></li> -->
+           <button  class="log-in"
+            class="{{ Route::currentRouteName() == 'frontend.auth.login' ? 'active' : '' }}"><a href="{{ route('frontend.auth.login') }}" type="button">Log in</button>
+          
+            <button class="sign-up"
+           class="{{ Route::currentRouteName() == 'frontend.auth.register' ? 'active' : '' }}"><a href="{{ route('frontend.auth.register') }}" type="button">Sign up</button>
+          @endif
         @if(config('boilerplate.locale.status') && count(config('boilerplate.locale.languages')) > 1)
             <li class="c-header-nav-item dropdown lang-list">
                 <x-utils.link
@@ -49,6 +62,8 @@
                 @include('includes.partials.lang')
             </li>
         @endif
+    
+
         @if (Auth::check() && $logged_in_user->email_verified_at != null)
         @if($logged_in_user->isAdmin())
         <li class="c-header-nav-item dropdown ">

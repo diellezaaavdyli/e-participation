@@ -3,6 +3,12 @@
 @section('title', __('Register'))
 
 @section('content')
+
+            <p style="font-weight:bold; font-size:20px; text-align:center; ">Republic of Kosovo</p>
+            <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
+            <hr style="width:70%;">
+            <p style="font-weight:bold; font-size:20px; text-align:center; ">eParticipation</p>
+
     <div class="container py-4">
         <div class="row justify-content-center">
             <div class="col-md-8">

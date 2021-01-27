@@ -8,10 +8,10 @@
           @else
           <!-- <li  class="{{ Route::currentRouteName() == 'frontend.auth.login' ? 'active' : '' }}"><a href="{{ route('frontend.auth.login') }}">Login</a></li>
            <li  class="{{ Route::currentRouteName() == 'frontend.auth.register' ? 'active' : '' }}"><a href="{{ route('frontend.auth.register') }}">Register</a></li> -->
-           <button id="sign-up-button"
+           <button  class="log-in"
             class="{{ Route::currentRouteName() == 'frontend.auth.login' ? 'active' : '' }}"><a href="{{ route('frontend.auth.login') }}" type="button">Log in</button>
           
-            <button id="log-in-button"
+            <button class="sign-up"
            class="{{ Route::currentRouteName() == 'frontend.auth.register' ? 'active' : '' }}"><a href="{{ route('frontend.auth.register') }}" type="button">Sign up</button>
           @endif
 
