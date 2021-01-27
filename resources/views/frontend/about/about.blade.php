@@ -50,13 +50,11 @@
 
         <h4>Dokumente të rëndësishme</h4>
         <ul style="text-align:left;">
-            <li><a href="">Kushtetuta e Republikës së Kosovës</a></li>
-            <li><a href="">Flamuri i Republikës së Kosovës</a></li>
-            <li><a href="">Himni i Republikës së Kosovës</a></li>
-            <li><a href="">Stema e Republikës së Kosovës</a></li>
-            <li><a href="">Rregullorja e Kuvendit të Republikës së Kosovës</a></li>
-            <li><a href="">Kushtetuta e Republikës së Kosovës</a></li>
-            <li><a href="">Flamuri i Republikës së Kosovës</a></li>
+            <li><a href="http://www.kuvendikosoves.org/Uploads/Data/Files/6/KushtetutaeRepublikesseKosoves_nJ4SXNnEAT.pdf">Kushtetuta e Republikës së Kosovës</a></li>
+            <li><a href="http://www.kuvendikosoves.org/Uploads/Data/Files/1/1920px-Flag_of_Kosovo.svg_va3RsNrubr.png">Flamuri i Republikës së Kosovës</a></li>
+            <li><a href="about:blank#blocked">Himni i Republikës së Kosovës</a></li>
+            <li><a href="http://www.kuvendikosoves.org/Uploads/Data/Files/1/Coat_of_arms_of_Kosovo.svg_2keFmPKHuS.png">Stema e Republikës së Kosovës</a></li>
+            <li><a href="http://www.kuvendikosoves.org/Uploads/Data/Files/6/Rr_K_RK_29_04_2010_1_EDbu8aqXYd.pdf">Rregullorja e Kuvendit të Republikës së Kosovës</a></li>
         </ul> 
 
 </div> 
