@@ -38,8 +38,7 @@
     <ul class="list-unstyled c-header-nav d-md-down-none">
     @if (Auth::check())
           @inject('user', 'App\Models\User')
-          <img src="{{ $user::returnAuthUserAvatar($logged_in_user) }}" alt="" class="rounded-image">
-          <h5 class="heading4">@lang('translator.welcome_message'),  {{ Auth::user()->name }}</h5>
+          
           @else
           <!-- <li  class="{{ Route::currentRouteName() == 'frontend.auth.login' ? 'active' : '' }}"><a href="{{ route('frontend.auth.login') }}">Login</a></li>
            <li  class="{{ Route::currentRouteName() == 'frontend.auth.register' ? 'active' : '' }}"><a href="{{ route('frontend.auth.register') }}">Register</a></li> -->
