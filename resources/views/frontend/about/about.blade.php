@@ -8,7 +8,7 @@
             <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
             <hr style="width:60%;">
             
- <div >
+ <div class="about-page" >
 
  <p>eParticipation is an inclusive platform which aims to engage citizens
  in decision-making and public service delivery by submitting issues to specific 

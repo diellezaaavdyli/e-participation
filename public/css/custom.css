@@ -856,3 +856,13 @@ height: 565px !important;
     color:white;
   
 }
+
+.about-page{
+    display: block; 
+    font-size: 17px;
+    font-family: serif;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    padding: 22px 111px 0px;
+}

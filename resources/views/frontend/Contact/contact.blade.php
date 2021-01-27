@@ -4,7 +4,7 @@
 @section('content')
 
 
-
+<div class="about-page">
 <p style="font-weight:bold; font-size:20px; text-align:center;">Republic of Kosovo</p>
             <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
             <hr style="width:60%;">
@@ -13,7 +13,7 @@
              service delivery by submitting issues to specific Members of the Parliament, following the activities
               of the Parliament, and directly submitting electronic forms.  </p>
 
-            <h1>Adresa</h1>
+            <h3>Adresa</h3>
             <p> Hyrja e parë:<br>Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)</p>
             <p> Hyrja e dytë:<br>Kuvendi i Kosovës<br>Rruga UÇK nr. 65<br>Prishtinë (10000)</p>
 
@@ -36,4 +36,6 @@
          <li>Webmail</li>
          <li>Harta e faqes</li>
          </ul>
+
+  </div>
 @endsection
