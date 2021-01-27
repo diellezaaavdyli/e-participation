@@ -4,22 +4,22 @@
 @section('content')
 
    
-            <p style="font-weight:bold; font-size:20px; text-align:center;">Republic of Kosovo</p>
-            <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
-            <hr style="width:60%;">
+        <p style="font-weight:bold; font-size:20px; text-align:center;">Republic of Kosovo</p>
+        <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
+        <hr style="width:60%;">
             
  <div class="about-page" >
 
- <p>eParticipation is an inclusive platform which aims to engage citizens
- in decision-making and public service delivery by submitting issues to specific 
- Members of the Assembly, following the activities of the Assembly, 
- and directly submitting electronic forms.  </em></p>
- <p>This platform consists of three categories listed in the main menu: </p>
- <ul>
-    <li>Home</li>
-    <li>Agenda</li>
-    <li>Visit & Attend</li>
- </ul>
+        <p style="text-align:center;">eParticipation is an inclusive platform which aims to engage citizens
+        in decision-making and public service delivery by submitting issues to specific 
+        Members of the Assembly, following the activities of the Assembly, 
+        and directly submitting electronic forms.  </em></p>
+        <p>This platform consists of three categories listed in the main menu: </p>
+    <ul>
+        <li>Home</li>
+        <li>Agenda</li>
+        <li>Visit & Attend</li>
+    </ul>
         <p>The Home bar directs the citizens to the main page of this platform 
         where they can address an issue to a respective member of the Assembly,
         or to the Assembly institution as a whole where a respective member of the Assembly
@@ -48,15 +48,15 @@
 
         <img>
 
-        <p>Dokumente te rendesishme</p>
+        <h4>Dokumente të rëndësishme</h4>
         <ul style="text-align:left;">
-            <li>Kushtetuta e Republikës së Kosovës</li>
-            <li>Flamuri i Republikës së Kosovës</li>
-            <li>Himni i Republikës së Kosovës</li>
-            <li>Stema e Republikës së Kosovës</li>
-            <li>Rregullorja e Kuvendit të Republikës së Kosovës</li>
-            <li>Kushtetuta e Republikës së Kosovës</li>
-            <li>Flamuri i Republikës së Kosovës</li>
+            <li><a href="">Kushtetuta e Republikës së Kosovës</a></li>
+            <li><a href="">Flamuri i Republikës së Kosovës</a></li>
+            <li><a href="">Himni i Republikës së Kosovës</a></li>
+            <li><a href="">Stema e Republikës së Kosovës</a></li>
+            <li><a href="">Rregullorja e Kuvendit të Republikës së Kosovës</a></li>
+            <li><a href="">Kushtetuta e Republikës së Kosovës</a></li>
+            <li><a href="">Flamuri i Republikës së Kosovës</a></li>
         </ul> 
 
 </div> 
