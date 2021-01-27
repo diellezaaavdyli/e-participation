@@ -1,21 +1,6 @@
 <button class="close-button show-on-small-device close-sidebars"><i class="fas fa-times"></i></button>
 <div class="sidebar">
-    <div class="sidebar-user-wrapper">
-    @if (Auth::check())
-          @inject('user', 'App\Models\User')
-          <img src="{{ $user::returnAuthUserAvatar($logged_in_user) }}" alt="" class="rounded-image">
-          <h5 class="heading4">@lang('translator.welcome_message'),  {{ Auth::user()->name }}</h5>
-          @else
-          <!-- <li  class="{{ Route::currentRouteName() == 'frontend.auth.login' ? 'active' : '' }}"><a href="{{ route('frontend.auth.login') }}">Login</a></li>
-           <li  class="{{ Route::currentRouteName() == 'frontend.auth.register' ? 'active' : '' }}"><a href="{{ route('frontend.auth.register') }}">Register</a></li> -->
-           <button  class="log-in"
-            class="{{ Route::currentRouteName() == 'frontend.auth.login' ? 'active' : '' }}"><a href="{{ route('frontend.auth.login') }}" type="button">Log in</button>
-          
-            <button class="sign-up"
-           class="{{ Route::currentRouteName() == 'frontend.auth.register' ? 'active' : '' }}"><a href="{{ route('frontend.auth.register') }}" type="button">Sign up</button>
-          @endif
-
-    </div>
+    
     <div class="sidebar-menu">
     <ul>
                 <li  class="{{ Route::currentRouteName() == 'frontend.issues.index' ? 'active' : '' }}"><a href="{{ route('frontend.issues.index') }}">@lang('translator.issues_title')</a></li>
