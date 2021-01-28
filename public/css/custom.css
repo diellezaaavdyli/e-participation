@@ -814,7 +814,7 @@ height: 565px !important;
 .log-in{
     background-color:#2786e0; 
     text-decoration: none !important;
-    font-family: system-ui;
+    /* font-family: system-ui; */
     font-style: none;
     padding: 6px 19px;
     text-align: center;
@@ -832,7 +832,7 @@ height: 565px !important;
 
 .sign-up{
     background-color: #2786e0; 
-    font-family: system-ui;
+  /* font-family: system-ui; */
     font-style: none;
     padding: 6px 19px;
     text-align: center;
@@ -860,7 +860,7 @@ height: 565px !important;
 .about-page{
     display: block; 
     font-size: 17px;
-    font-family: serif;
+    /* font-family: serif; */
     align-items: center;
     position: relative;
     justify-content: center;
