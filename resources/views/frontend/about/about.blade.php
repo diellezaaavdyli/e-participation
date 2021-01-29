@@ -20,7 +20,7 @@
         <li>Agenda</li>
         <li>Visit & Attend</li>
     </ul>
-        <p>The Home bar directs the citizens to the main page of this platform 
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Home bar directs the citizens to the main page of this platform 
         where they can address an issue to a respective member of the Assembly,
         or to the Assembly institution as a whole where a respective member of the Assembly
         will respond to each issue respectively. When navigating through the home page,
@@ -32,7 +32,7 @@
         check how they have been addressed, they can use the keyword section, by selecting a
         keyword and submitting, so that the issue that contains that keyword pops up. </p>
 
-        <p>The Agenda bar directs the citizens to the page containing the
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Agenda bar directs the citizens to the page containing the
         agenda of the Assembly of the Republic of Kosovo. Citizens can
         apply to be part of any event showcased in the calendar by choosing 
         the event and pressing attend. In order to attend the event the citizens 
@@ -40,7 +40,7 @@
         request is submitted, the staff from the Assembly of the Republic of Kosovo
         will handle the requests and notify them with a response. </p>
 
-        <p>The Visit & Attend bar directs the citizens to the page where they can 
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Visit & Attend bar directs the citizens to the page where they can 
         request to attend a plenary meeting or merely pay a visit to the Assembly
         of the Republic of Kosovo. In order to do so, the citizens should first fill 
         in the form in the page and a contact point from the Assembly of the Republic 
