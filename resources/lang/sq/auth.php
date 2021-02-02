@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Keni provuar te kyceni shume here. Ju lutem provoni perseeri pas :seconds sekondaves.',
+    'failed' => 'Këto kredenciale nuk përputhen me të dhënat tona.',
+    'throttle' => 'Shumë tentime për kyçje. Ju lutemi provoni përsëri pas :seconds sekonda.',
 
 ];

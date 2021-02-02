@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'previous' => '&laquo; Prapa',
-    'next' => 'Para &raquo;',
+    'previous' => '&laquo; E mëparshme',
+    'next' => 'Tjetra &raquo;',
 
 ];
