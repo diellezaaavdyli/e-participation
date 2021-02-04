@@ -7,8 +7,8 @@
         <div class="col-md-12">
         <div class="row justify-content-center">
         <div class="col-12 col-lg-10 text-center page-content-wrapper">
-        <p style="font-weight:bold; font-size:20px;">Republic of Kosovo</p>
-            <p style="font-weight:bold; font-size:20px;">Assembly of the Republic of Kosovo</p>
+        <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
+            <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr style="width:60%;"> 
             <div class="w-100 mt-4">
             @if($content::returnContentValue('form_description') && $content::returnContentValue('form_description')->description)
@@ -35,7 +35,7 @@
                 <div class="tab-pane fade show active" id="plenary-meeting" role="tabpanel" aria-labelledby="plenary-meeting-tab">
                 <form action="{{route('frontend.forms.storeplenary')}}"  method="POST" class="mt-5">
                     {{ csrf_field() }} 
-                    <p style=" font-size:13px;"><i>Do you want to be part of a plenary meeting of the Assembly of the Republic of Kosovo? </i>
+                    <p style=" font-size:13px;"><i>@lang('translator.partPlanaryMeeting')</i>
                     <br>Please, fill in the form below and a contact point from the Assembly of the Republic of Kosovo will handle your request and notify you via email. </p>
                     <div class="container-fluid">
                         <div class="row">

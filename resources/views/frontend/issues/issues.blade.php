@@ -7,8 +7,8 @@
         <div class="col-md-12">
          <div class="row justify-content-center">
             <div class="col-12 col-lg-8 text-center page-content-wrapper" > 
-            <p style="font-weight:bold; font-size:20px;">Republic of Kosovo</p>
-            <p style="font-weight:bold; font-size:20px; ">Assembly of the Republic of Kosovo</p>
+            <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
+            <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr>
             <div class="w-100 mt-3">
                 @if($content::returnContentValue('issue_description') && $content::returnContentValue('issue_description')->description)
@@ -24,13 +24,13 @@
                     <div class="form-group">
                           <!--Put placeholders instead of the label below -->
                         <!-- <label for="title">@lang('translator.label_title')</label>-->
-                        <input class="form-control" placeholder="Please write the title of your issue? " name="title" id="title" type="text" required>
+                        <input class="form-control" placeholder="@lang('translator.title_issue_placeholder')" name="title" id="title" type="text" required>
                    
                     </div>
                     <div class="form-group">
                           <!--Put placeholders instead of the label below -->
                    <!-- <label for="description">@lang('translator.label_description')</label> -->
-                          <textarea class="textarea form-control" placeholder="Please write the description of your issue?" name="description" id="description" ></textarea>
+                          <textarea class="textarea form-control" placeholder="@lang('translator.description_issue_placeholder')" name="description" id="description" ></textarea>
                
                     </div>
 

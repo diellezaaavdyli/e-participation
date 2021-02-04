@@ -15,6 +15,8 @@ return [
 
     // Main titles
 
+    'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
+    'republicofKosovo'=>'Republika e Kosovës',
     'welcome_message' => 'Mirë se erdhët',
     'issues_title' => 'Çështjet',
     'issue_title' => 'Çështjet',
@@ -43,8 +45,8 @@ return [
     'update_role_title' => 'Azhurnoni rolin',
     'system_title' => 'Sistemi',
     'access_title' => 'Çasja',
-    'tags_title' => 'Etiketat',
-    'deleted_tags_title' => 'Etiketat e fshira',
+    'tags_title' => 'Ju lutem zgjedhni një fjalë kyçe',
+    'deleted_tags_title' => 'Fjalët kyçe të fshira',
     'plenary_form_manager' => 'Menaxhimi i formularëve plenare',
     'visit_form_manager' => ' Menaxhimin i formularëve të vizitës',
     'issue_page_description' => 'Përshkrimi i faqes së çështjes',
@@ -112,7 +114,7 @@ return [
     'label_phone' => 'Telefoni',
     'label_comment' => 'Komenti',
     'label_description' => 'Përshkrimi',
-    'label_tag' => 'Etiketat',
+    'label_tag' => 'Ju lutem zgjedhni një fjalë kyçe',
     'leave_a_comment'=> 'Lini një koment',
     'search_placeholder'=>'Shtypni një fjalë kyçe dhe shtypni enter',
     'placelholder_form_name' => 'Personi, institucioni, organizata, shkolla ...',
@@ -129,11 +131,19 @@ return [
     'verify_email_question_part_1' => 'Nëse nuk e keni pranuar emailin',
     'verify_email_question_part_2' => 'kliko këtu për të kërkuar një tjetër',
     //Issue Admin
+    'title_issue_placeholder'=>'Ju lutem shkruani titullin e çështjes suaj?',
+    'description_issue_placeholder' => 'Ju lutem shkruani përshkrimin e çështjes suaj??',
     'delete_issue_popup_title' => 'Fshini çështjen', 
     'restore_issue_popup_title' => 'Riktheni çështjen', 
     'delete_question_issue' => "A jeni i sigurt që doni ta fshini këtë çështje",
     'delete_question_issue_permanently' => "A jeni i sigurt që doni ta fshini këtë çështje përgjithmonë",
     'issue_created' => 'Faleminderit që krijuat çështje të re!',
+
+    //About Page
+    'about_title'=> 'Rreth Platformës',
+
+    //Contact Page
+    'contact_title'=>'Kontakto',
     
     //Comments Admin
 
@@ -153,6 +163,7 @@ return [
     
     //Activities Admin
 
+    'partPlanaryMeeting'=>'Dëshironi të merrni pjesë në një mbledhje plenare të Kuvendit të Republikës së Kosovës?',
     'delete_activity_popup_title' => 'Fshini aktivitetin', 
     'restore_activity_popup_title' => 'Riktheni aktivitetin', 
     'edit_activity_popup_title' => 'Redaktoni aktivitetin', 
@@ -173,7 +184,7 @@ return [
     'form_created' => 'Faleminderit për aplikimin tuaj. Për më shumë informacion kontrolloni emailin tuaj!',
     // Right Sidebar
 
-    'sidebar_tag_title'=> 'Cloud etiketimi',
+    'sidebar_tag_title'=> 'Fjalët kyçe',
     'sidebar_tag_empty'=> 'Nuk ka tag aktiv',
     'sidebar_activities_title'=> 'Aktivitetet e ardhshme',
     'sidebar_activities_empty'=> 'Nuk ka aktivitete të ardhshme',

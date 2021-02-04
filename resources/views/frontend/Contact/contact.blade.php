@@ -5,8 +5,9 @@
 
 
 <div class="about-page">
-<p style="font-weight:bold; font-size:20px; text-align:center;">Republic of Kosovo</p>
-            <p style="font-weight:bold; font-size:20px;text-align:center; ">Assembly of the Republic of Kosovo</p>
+<p style="font-weight:bold; font-size:20px; text-align:center;">@lang('translator.republicofKosovo')</p>
+            <p style="font-weight:bold; font-size:20px;text-align:center; ">@lang('translator.assemblyofKosovo')</p>
+           
             <hr style="width:60%;">
 
             <p style="text-align:center;">eParticipation is an inclusive platform which aims to engage citizens in decision-making and public

@@ -24,8 +24,8 @@
 @section('content')
 <div class="col-12 col-lg-8 text-center page-content-wrapper" style="margin: 0 auto;">
           
-            <p style="font-weight:bold; font-size:20px;">Republic of Kosovo</p>
-            <p style="font-weight:bold; font-size:20px;">Assembly of the Republic of Kosovo</p>
+             <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
+            <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr>
             <div class="w-100 mt-3">
 
