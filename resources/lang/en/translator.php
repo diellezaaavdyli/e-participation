@@ -138,11 +138,20 @@ return [
     'verify_email_question_part_2' => 'click here to request another',
     'label_applications' => 'Manage Applications',
     //Issue Admin
+
+    'title_issue_placeholder'=>'Please write the title of your issue?',
+    'description_issue_placeholder' => 'Please write the description of your issue?',
     'delete_issue_popup_title' => 'Delete Issue', 
     'restore_issue_popup_title' => 'Restore Issue', 
     'delete_question_issue' => "Are you sure that you want to delete this Issue",
     'delete_question_issue_permanently' => "Are you sure that you want to delete this Issue permanently",
     'issue_created' => ' Thank you for submitting a new Issue, once it is reviewed and approved by the Admin it will be posted here!!',
+
+     //About Page
+     'about_title'=> 'About',
+
+     //Contact Page
+     'contact_title'=>'Contact',
     
     //Comments Admin
 
@@ -162,12 +171,13 @@ return [
     
     //Activities Admin
 
+    'partPlanaryMeeting'=>'Do you want to be part of a plenary meeting of the Assembly of the Republic of Kosovo? ',
     'delete_activity_popup_title' => 'Delete activity', 
     'restore_activity_popup_title' => 'Restore activity', 
     'edit_activity_popup_title' => 'Edit activity', 
     'add_activity_popup_title' => 'Add new activity', 
     'delete_question_activity' => "Are you sure that you want to delete this activity",
-    'delete_question_activity_permanently' => "Are you sure that you want to delete this activity permanently",
+    'delete_question_activity_permanently' => "Are you sure you want to delete this activity permanently",
     
     // Mailtemplate 
 
@@ -186,10 +196,10 @@ return [
     'delete_application' => 'Delete Application',
     'delete_application_question' => 'Are you sure you want to delete this application?',
     'empty_forms' => 'Please create the mail template to notice the user',
-    'form_created' => 'Thankyou for your application. form more information check your email!',
-    'activity_form_created' => 'Thankyou for applying to be part of this Activity. If application is approved you will be informed via email.',
-    'comment_add' =>'Thankyou for adding a Comment!',
-    'reply_add' => 'Thankyou for adding a Reply!',
+    'form_created' => 'Thank you for your application, for more information check your email!',
+    'activity_form_created' => 'Thank you for applying to be part of this Activity. If application is approved you will be informed via email.',
+    'comment_add' =>'Thank you for adding a Comment!',
+    'reply_add' => 'Thank you for adding a Reply!',
     // Right Sidebar
 
     'sidebar_tag_title'=> 'Keywords',

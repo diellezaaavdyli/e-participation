@@ -185,7 +185,7 @@ return [
     // Right Sidebar
 
     'sidebar_tag_title'=> 'Fjalët kyçe',
-    'sidebar_tag_empty'=> 'Nuk ka tag aktiv',
+    'sidebar_tag_empty'=> 'Nuk ka fjalë kyçe aktive',
     'sidebar_activities_title'=> 'Aktivitetet e ardhshme',
     'sidebar_activities_empty'=> 'Nuk ka aktivitete të ardhshme',
     'comments' =>'Komentet',
@@ -197,7 +197,7 @@ return [
     'login'=>'Kyçuni',
     'log_out'=>'Shkyçuni',
     'agree'=>'Unë pajtohem me',
-    'terms_and_conditions' =>'Kushtet dhe afatet',
+    'terms_and_conditions' =>'Termat dhe kushtet',
     'forgot_password_question' => 'Keni harruar fjalëkalimin tuaj?',
     'reset'=>'Rivendosni fjalëkalimin',
     'send_password_reset_link'=>'Dërgoni Linkun e Risetimit të Fjalëkalimit',
