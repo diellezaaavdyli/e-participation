@@ -14,7 +14,9 @@ return [
     */
 
     // Main titles
-    
+
+    'republicofKosovo'=>'Republic of Kosovo',
+    'assemblyofKosovo'=>'Assembly of the Republic of Kosovo',
     'welcome_message' => 'Welcome',
     'issues_title' => 'Home',
     'issue_title' => 'Home',

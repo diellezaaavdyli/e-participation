@@ -15,8 +15,8 @@ return [
 
     // Main titles
 
-    'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
     'republicofKosovo'=>'Republika e Kosovës',
+    'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
     'welcome_message' => 'Mirë se erdhët',
     'issues_title' => 'Çështjet',
     'issue_title' => 'Çështjet',
