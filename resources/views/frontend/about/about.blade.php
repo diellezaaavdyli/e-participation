@@ -46,9 +46,10 @@
         in the form in the page and a contact point from the Assembly of the Republic 
         of Kosovo will handle their requests and notify them via email. </p>
 
-        <img>
 
-        <h4>Dokumente të rëndësishme</h4>
+        <img src="img/NED.png" width=100px; height:100px; style="padding-bottom:15px; ">
+
+        <h4>Dokumente të rëndësishme:</h4>
         <ul style="text-align:left;">
             <li><a href="http://www.kuvendikosoves.org/Uploads/Data/Files/6/KushtetutaeRepublikesseKosoves_nJ4SXNnEAT.pdf">Kushtetuta e Republikës së Kosovës</a></li>
             <li><a href="http://www.kuvendikosoves.org/Uploads/Data/Files/1/1920px-Flag_of_Kosovo.svg_va3RsNrubr.png">Flamuri i Republikës së Kosovës</a></li>

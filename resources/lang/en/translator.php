@@ -146,6 +146,7 @@ return [
     'delete_question_issue' => "Are you sure that you want to delete this Issue",
     'delete_question_issue_permanently' => "Are you sure that you want to delete this Issue permanently",
     'issue_created' => ' Thank you for submitting a new Issue, once it is reviewed and approved by the Admin it will be posted here!!',
+    'nothing_selected'=>'Nothing selected!',
 
      //About Page
      'about_title'=> 'About',

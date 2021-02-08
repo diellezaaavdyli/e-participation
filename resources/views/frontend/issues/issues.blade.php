@@ -36,7 +36,7 @@
 
                     <div class="form-group">
                     <label for="tags">@lang('translator.label_tag')</label>
-                    <select class="form-control selectpicker" multiple name="tags[]" required>
+                    <select class="form-control selectpicker show-tick"  multiple name="tags[]" multiple title="@lang('translator.nothing_selected')"  required >
                     @inject('tags', 'App\Models\Tag')
                         @if(count($tags::getTags()) > 0)
                             @foreach($tags::getTags() as $tag)

@@ -25,7 +25,7 @@ return [
     'actvitiy_title' => 'Aktiviteti',
     'actvities_title' => 'Aktivitetet',
     'setings_title' => 'Cilësimet',
-    'socials_title' => 'Sociale',
+    'socials_title' => 'Rrjetet sociale',
     'deleted_actvities_title' => 'Aktivitetet e fshira',
     'forms_title' => 'Merr pjesë',
     'archives_title' => 'Arkivat',
@@ -125,6 +125,7 @@ return [
     'apply' => 'Aplikoni',
     'plenary_meeting_form_label' => 'Aplikimi për Formularin e Mbledhjes Plenare',
     'visit_form_label' => 'Aplikimi për Formularin e Vizitës',
+    'nothing_selected'=>'Nuk keni zgjedhur asnjë fjalë kyçe!',
     
     'verify_email' => 'Verifikoni adresën tuaj të postës elektronike',
     'verify_email_quote' => 'Para se të vazhdoni, ju lutemi kontrolloni emailin tuaj për një link verifikimi.',
