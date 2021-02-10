@@ -18,8 +18,8 @@ return [
     uključi građane u donošenje odluka i pružanje javnih usluga podnošenjem pitanja određenim 
     poslanicima u Skupštini, prateći aktivnosti Skupštine, i direktnim podnošenjem elektronskih obrazaca.',
     'e-participation'=>'e-Učešće',
-    'republicofKosovo'=>'Republika e Kosovës',
-    'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
+    'republicofKosovo'=>'Republika Kosovo',
+    'assemblyofKosovo'=>'Skupština Republike Kosovo',
     'welcome_message' => 'Dobrodošli',
     'issues_title' => 'Pitanja',
     'issue_title' => 'Pitanja',
@@ -60,6 +60,8 @@ return [
     'right_reserved' => 'Sva prava zadržana',
     'powered_by' => 'Pokreće ga',
 
+      'log_in_button'=>'Prijavite se',
+     'sign_up_button'=>'Upišite se',
       // Buttons and Labels
       'save' => 'Sačuvaj',
       'label_back' => 'Nazad',
@@ -134,6 +136,8 @@ return [
       'verify_email_question_part_2' => 'kliknite ovde da biste zatražili još jedan',
 
       //Issue Admin
+      'title_issue_placeholder'=>'Molimo, napišite naslov pitanja?',
+    'description_issue_placeholder' => 'Molimo napišite opis problema?',
     'delete_issue_popup_title' => 'Izbriši pitanje', 
     'restore_issue_popup_title' => 'Povrati pitanje', 
     'delete_question_issue' => "Da li ste sigurni da želite da izbrišete ovo pitanje",

@@ -60,8 +60,11 @@ return [
     'copyright' => 'E drejta e autorit',
     'right_reserved' => 'Të gjitha të drejtat e rezervuara',
     'powered_by' => 'Mundësuar nga Open Data Kosovo',
+
     // Buttons and Labels
 
+    'log_in_button'=>'Kyçu',
+    'sign_up_button'=>'Regjistrohu',
     'save' => 'Ruaj',
     'label_back' => 'Mbrapa',
     'label_cancel' =>'Anulo',
@@ -136,6 +139,7 @@ return [
     'verify_email_question_part_1' => 'Nëse nuk e keni pranuar emailin',
     'verify_email_question_part_2' => 'kliko këtu për të kërkuar një tjetër',
     //Issue Admin
+    
     'title_issue_placeholder'=>'Ju lutem shkruani titullin e çështjes suaj?',
     'description_issue_placeholder' => 'Ju lutem shkruani përshkrimin e çështjes suaj??',
     'delete_issue_popup_title' => 'Fshini çështjen', 

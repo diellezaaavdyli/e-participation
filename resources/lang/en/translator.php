@@ -63,8 +63,11 @@ return [
     'copyright' => 'Assembly of the Republic of Kosovo',
     'right_reserved' => 'All Rights Reserved',
     'powered_by' => 'Open Data Kosovo',
+
     // Buttons and Labels
 
+    'log_in_button'=>'Log in',
+    'sign_up_button'=>'Sign up',
     'save' => 'Submit',
     'label_back' => 'Back',
     'label_cancel' =>'Cancel',
