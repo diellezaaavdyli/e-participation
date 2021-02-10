@@ -14,6 +14,9 @@ return [
     */
 
     // Main titles
+    'eParticipation'=>'Elektronsko učešće je inkluzivna platforma koja ima za cilj da 
+    uključi građane u donošenje odluka i pružanje javnih usluga podnošenjem pitanja određenim 
+    poslanicima u Skupštini, prateći aktivnosti Skupštine, i direktnim podnošenjem elektronskih obrazaca.',
     'republicofKosovo'=>'Republika e Kosovës',
     'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
     'welcome_message' => 'Dobrodošli',
