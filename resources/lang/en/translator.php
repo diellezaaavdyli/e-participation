@@ -200,7 +200,10 @@ return [
     
     //Activities Admin
 
-    'partPlanaryMeeting'=>'Do you want to be part of a plenary meeting of the Assembly of the Republic of Kosovo? ',
+    'partPlanaryMeeting1'=>'Do you want to be part of a plenary meeting of the Assembly of the Republic of Kosovo? ',
+    'partPlanaryMeeting2'=>'Please, fill in the form below and a contact point from the Assembly of the Republic of Kosovo will handle your request and notify you via email.',
+    'payAVisit_1'=>'Do you want to pay a visit to the Assembly of the Republic of Kosovo?',
+    'payAVisit_2'=>'Please, fill in the form below and a contact point from the Assembly of the Republic of Kosovo will handle your request and notify you via email.',
     'delete_activity_popup_title' => 'Delete activity', 
     'restore_activity_popup_title' => 'Restore activity', 
     'edit_activity_popup_title' => 'Edit activity', 

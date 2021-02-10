@@ -34,8 +34,8 @@
                 <div class="tab-pane fade show active" id="plenary-meeting" role="tabpanel" aria-labelledby="plenary-meeting-tab">
                 <form action="{{route('frontend.forms.storeplenary')}}"  method="POST" class="mt-5">
                     {{ csrf_field() }} 
-                    <p style=" font-size:13px;"><i>@lang('translator.partPlanaryMeeting')</i>
-                    <br>Please, fill in the form below and a contact point from the Assembly of the Republic of Kosovo will handle your request and notify you via email. </p>
+                    <p style=" font-size:13px;"><i>@lang('translator.partPlanaryMeeting1')</i>
+                    <br>@lang('translator.partPlanaryMeeting2') </p>
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-12">

@@ -61,7 +61,7 @@ return [
     'powered_by' => 'Pokreće ga',
 
       'log_in_button'=>'Prijavite se',
-     'sign_up_button'=>'Upišite se',
+      'sign_up_button'=>'Upišite se',
       // Buttons and Labels
       'save' => 'Sačuvaj',
       'label_back' => 'Nazad',
@@ -134,6 +134,12 @@ return [
       'verify_email_quote' => 'Pre nego što nastavite, za verifikaciju linka pogledajte svoju e-poštu.',
       'verify_email_question_part_1' => 'Ako niste dobili e-poštu',
       'verify_email_question_part_2' => 'kliknite ovde da biste zatražili još jedan',
+
+      //Activites
+      'partPlanaryMeeting1'=>'Da li želite da budete deo plenarnog sastanka Skupštine Republike Kosovo?',
+      'partPlanaryMeeting2'=>'Molimo vas da popunite donji obrazac i kontakt osoba iz Skupštine Republike Kosovo će obraditi vaš zahtev i obavestiti vas putem e-pošte.',
+      'payAVisit_1'=>'Da li želite da posetite Skupštinu Republike Kosovo?',
+      'payAVisit_2'=>'Molimo vas da popunite donji obrazac i kontakt osoba iz Skupštine Republike Kosovo će obraditi vaš zahtev i obavestiti vas putem e-pošte.',
 
       //Issue Admin
       'title_issue_placeholder'=>'Molimo, napišite naslov pitanja?',

@@ -139,7 +139,7 @@ return [
     'verify_email_question_part_1' => 'Nëse nuk e keni pranuar emailin',
     'verify_email_question_part_2' => 'kliko këtu për të kërkuar një tjetër',
     //Issue Admin
-    
+
     'title_issue_placeholder'=>'Ju lutem shkruani titullin e çështjes suaj?',
     'description_issue_placeholder' => 'Ju lutem shkruani përshkrimin e çështjes suaj??',
     'delete_issue_popup_title' => 'Fshini çështjen', 
@@ -191,7 +191,10 @@ return [
     
     //Activities Admin
 
-    'partPlanaryMeeting'=>'Dëshironi të merrni pjesë në një mbledhje plenare të Kuvendit të Republikës së Kosovës?',
+    'partPlanaryMeeting1'=>'Dëshironi të merrni pjesë në një mbledhje plenare të Kuvendit të Republikës së Kosovës?',
+    'partPlanaryMeeting2'=>'Ju lutem, plotësoni formularin më poshtë dhe një person kontakti nga Kuvendi i Republikës së Kosovës do të trajtojë kërkesën tuaj dhe do të ju njoftojë përmes emailit.',
+    'payAVisit_1'=>'Do you want to pay a visit to the Assembly of the Republic of Kosovo?',
+    'payAVisit_2'=>'Please, fill in the form below and a contact point from the Assembly of the Republic of Kosovo will handle your request and notify you via email.',
     'delete_activity_popup_title' => 'Fshini aktivitetin', 
     'restore_activity_popup_title' => 'Riktheni aktivitetin', 
     'edit_activity_popup_title' => 'Redaktoni aktivitetin', 
