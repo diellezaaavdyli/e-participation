@@ -18,6 +18,7 @@ return [
     synon të angazhojë qytetarët në vendimmarrje dhe ju ofron çasje në shërbime publike, 
     duke shqyrtuar çështjet e dërguara tek Anëtarët e Kuvendit, duke ndjekur aktivitetet 
     e Kuvendit dhe duke dorëzuar drejtpërdrejt formularët elektronik.',
+    'e-participation'=>'ePjesëmarrja',
     'republicofKosovo'=>'Republika e Kosovës',
     'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
     'welcome_message' => 'Mirë se erdhët',

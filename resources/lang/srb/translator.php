@@ -17,6 +17,7 @@ return [
     'eParticipation'=>'Elektronsko učešće je inkluzivna platforma koja ima za cilj da 
     uključi građane u donošenje odluka i pružanje javnih usluga podnošenjem pitanja određenim 
     poslanicima u Skupštini, prateći aktivnosti Skupštine, i direktnim podnošenjem elektronskih obrazaca.',
+    'e-participation'=>'e-Učešće',
     'republicofKosovo'=>'Republika e Kosovës',
     'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
     'welcome_message' => 'Dobrodošli',
@@ -163,7 +164,7 @@ return [
     'delete_application_question' => 'Da li ste sigurni da želite da izbrišete ovu aplikaciju?',
     'empty_forms' => 'Kreirajte obrazac e-pošte da biste primetili korisnika',
     'form_created' => 'Hvala vam na prijavi. Za više informacija proverite svoju e-poštu!',
-    'sidebar_tag_title'=> 'Tagovi',
+    'sidebar_tag_title'=> 'Ključne reči',
     'sidebar_tag_empty'=> 'Nema aktivnog taga',
     'sidebar_activities_title'=> 'Predstojeće aktivnosti',
     'sidebar_activities_empty'=> 'Nema predstojećih aktivnosti',

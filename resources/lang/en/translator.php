@@ -18,6 +18,7 @@ return [
     'eParticipation'=>'eParticipation is an inclusive platform which aims to engage
      citizens in decision-making and public service delivery by submitting issues to specific
       Members of the Assembly, following the activities of the Parliament, and directly submitting electronic forms.',
+    'e-participation'=>'eParticipation',
     'republicofKosovo'=>'Republic of Kosovo',
     'assemblyofKosovo'=>'Assembly of the Republic of Kosovo',
     'welcome_message' => 'Welcome',

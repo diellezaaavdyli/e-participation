@@ -27,6 +27,7 @@
              <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
             <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr>
+            <h4 style="font-weight:bold;">@lang('translator.e-participation')</h4>
             <p>@lang('translator.agenda_page_description1')<br><br> 
             @lang('translator.agenda_page_description2')
             <br><br> @lang('translator.agenda_page_description3') </p>
