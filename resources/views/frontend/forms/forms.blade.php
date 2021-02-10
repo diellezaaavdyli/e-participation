@@ -95,8 +95,8 @@
                 <div class="tab-pane fade" id="visit-meeting" role="tabpanel" aria-labelledby="visit-meeting-tab">
                     <form action="{{route('frontend.forms.storevisit')}}"  method="POST" class="mt-5">
                         {{ csrf_field() }} 
-                        <p style=" font-size:13px;"><i>Do you want to pay a visit to the Assembly of the Republic of Kosovo?</i> 
-                       <br> Please, fill in the form below and a contact point from the Assembly of the Republic of Kosovo will handle your request and notify you via email. </p>
+                        <p style=" font-size:13px;"><i>@lang('translator.payAVisit_1')</i> 
+                       <br>@lang('translator.payAVisit_2') </p>
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-12">
