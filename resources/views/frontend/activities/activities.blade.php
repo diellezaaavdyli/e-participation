@@ -27,11 +27,9 @@
              <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
             <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr>
-            <p>Do you want to know more about the agenda of the Assembly of the Republic of Kosovo?<br><br> 
-            Check the calendar below to get more information regarding the plenary sessions, events,
-             conferences, and other events implemented by the Assembly of the Republic of Kosovo. 
-            <br><br> If you want to be part of any of the events that the Assembly of the Republic of Kosovo
-              is organizing, please choose the specific event you’re interested in and press apply. </p>
+            <p>@lang('translator.agenda_page_description1')<br><br> 
+            @lang('translator.agenda_page_description2')
+            <br><br> @lang('translator.agenda_page_description3') </p>
               <hr>
 </div>
 
