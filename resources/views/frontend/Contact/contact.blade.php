@@ -10,9 +10,7 @@
            
             <hr style="width:60%;">
 
-            <p style="text-align:center;">eParticipation is an inclusive platform which aims to engage citizens in decision-making and public
-             service delivery by submitting issues to specific Members of the Parliament, following the activities
-              of the Parliament, and directly submitting electronic forms.  </p>
+            <p style="text-align:center;">@lang('translator.eParticipation')</p>
 
             <h3>Adresa</h3>
             <p> Hyrja e parë:<br>Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)</p>

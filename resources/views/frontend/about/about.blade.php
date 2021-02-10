@@ -10,10 +10,7 @@
             
  <div class="about-page" >
 
-        <p style="text-align:center;">eParticipation is an inclusive platform which aims to engage citizens
-        in decision-making and public service delivery by submitting issues to specific 
-        Members of the Assembly, following the activities of the Assembly, 
-        and directly submitting electronic forms.  </em></p>
+        <p style="text-align:center;">@lang('translator.eParticipation')</em></p>
         <p>This platform consists of three categories listed in the main menu: </p>
     <ul>
         <li>Home</li>

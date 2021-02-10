@@ -15,6 +15,9 @@ return [
 
     // Main titles
 
+    'eParticipation'=>'eParticipation is an inclusive platform which aims to engage
+     citizens in decision-making and public service delivery by submitting issues to specific
+      Members of the Assembly, following the activities of the Parliament, and directly submitting electronic forms.',
     'republicofKosovo'=>'Republic of Kosovo',
     'assemblyofKosovo'=>'Assembly of the Republic of Kosovo',
     'welcome_message' => 'Welcome',
@@ -147,6 +150,27 @@ return [
     'delete_question_issue_permanently' => "Are you sure that you want to delete this Issue permanently",
     'issue_created' => ' Thank you for submitting a new Issue, once it is reviewed and approved by the Admin it will be posted here!!',
     'nothing_selected'=>'Nothing selected!',
+
+
+    //Home Page (issues.blade.php)
+    'home_page_description1'=>'Dear Citizens of the Republic of Kosovo,',
+    'home_page_description2'=>'eParticipation is an inclusive platform which aims
+    to engage citizens in decision-making and public service delivery
+    by submitting issues to specific Members of the Assembly, 
+    following the activities of the Assembly, and directly submitting electronic forms. ',
+    'home_page_description3'=>'You may use the form below to raise any issue that you want the Assembly and Members of Assembly to address.',
+
+    //Visit & Attend Page (activities.blade.php)
+    'visit_page_description1'=>'Do you want to be part of a plenary meeting or pay a visit to the Assembly of the Republic of Kosovo?',
+    'visit_page_description2'=>'Please, fill in the form below and a contact point from the Assembly of the Republic of Kosovo will 
+    handle your request and notify you via email. ',
+
+    //Agenda (activities.blade.php)
+    'agenda_page_description1'=>'Do you want to know more about the agenda of the Assembly of the Republic of Kosovo?',
+    'agenda_page_description2'=>'Check the calendar below to get more information regarding the plenary sessions,
+     events, conferences, and other events implemented by the Assembly of the Republic of Kosovo.',
+    'agenda_page_description3'=>'If you want to be part of any of the events that the Assembly of the Republic of Kosovo
+     is organizing, please choose the specific event you’re interested in and press apply.',
 
      //About Page
      'about_title'=> 'About',

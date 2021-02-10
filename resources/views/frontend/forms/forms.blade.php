@@ -10,11 +10,10 @@
         <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
             <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr style="width:60%;"> 
-            <div class="w-100 mt-4">
-            @if($content::returnContentValue('form_description') && $content::returnContentValue('form_description')->description)
-                {!! $content::returnContentValue('form_description')->description !!}
-                @endif
-            </div>
+            <p>
+            @lang('translator.visit_page_description1')<br> 
+            @lang('translator.visit_page_description2')
+            </p>
             <hr>
         </div>
        

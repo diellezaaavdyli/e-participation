@@ -21,9 +21,6 @@
           
     </div>
     <div>
-    <p style="color:white; font-size:13px; position: fixed; bottom: 0; width:280px; "><em>eParticipation is an inclusive platform which
-     aims to engage citizens in decision-making and public service delivery 
-     by submitting issues to specific Members of the Parliament, following the activities of the Parliament,
-      and directly submitting electronic forms. </em></p>
+    <p style="color:white; font-size:13px; position: fixed; bottom: 0; width:280px; "><em>@lang('translator.eParticipation') </em></p>
     </div>
 </div>

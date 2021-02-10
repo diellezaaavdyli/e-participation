@@ -27,14 +27,12 @@
              <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
             <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr>
-            <div class="w-100 mt-3">
-
-@if($content::returnContentValue('activity_description') && $content::returnContentValue('activity_description')->description)
-                    {!! $content::returnContentValue('activity_description')->description !!}
-                    @endif
-                
-                  <hr>
-</div>
+            <p>Do you want to know more about the agenda of the Assembly of the Republic of Kosovo?<br><br> 
+            Check the calendar below to get more information regarding the plenary sessions, events,
+             conferences, and other events implemented by the Assembly of the Republic of Kosovo. 
+            <br><br> If you want to be part of any of the events that the Assembly of the Republic of Kosovo
+              is organizing, please choose the specific event you’re interested in and press apply. </p>
+              <hr>
 </div>
 
 <div class="container-fluid">

@@ -14,7 +14,10 @@ return [
     */
 
     // Main titles
-
+    'eParticipation'=>'ePjesëmarrja është platformë gjithëpërfshirëse e cila
+    synon të angazhojë qytetarët në vendimmarrje dhe ju ofron çasje në shërbime publike, 
+    duke shqyrtuar çështjet e dërguara tek Anëtarët e Kuvendit, duke ndjekur aktivitetet 
+    e Kuvendit dhe duke dorëzuar drejtpërdrejt formularët elektronik.',
     'republicofKosovo'=>'Republika e Kosovës',
     'assemblyofKosovo'=>'Kuvendi i Republikës së Kosovës',
     'welcome_message' => 'Mirë se erdhët',
@@ -23,11 +26,11 @@ return [
     'issues_list_title' => 'Lista e Çështjeve',
     'deleted_issues_title' => 'Çështjet e fshira',
     'actvitiy_title' => 'Aktiviteti',
-    'actvities_title' => 'Aktivitetet',
+    'actvities_title' => 'Agjenda',
     'setings_title' => 'Cilësimet',
     'socials_title' => 'Rrjetet sociale',
     'deleted_actvities_title' => 'Aktivitetet e fshira',
-    'forms_title' => 'Merr pjesë',
+    'forms_title' => 'Vizitoni & Merrni Pjesë',
     'archives_title' => 'Arkivat',
     'comments_title' => 'Komentet',
     'user_title' => 'Menaxhimi i Përdoruesit',
@@ -139,6 +142,25 @@ return [
     'delete_question_issue' => "A jeni i sigurt që doni ta fshini këtë çështje",
     'delete_question_issue_permanently' => "A jeni i sigurt që doni ta fshini këtë çështje përgjithmonë",
     'issue_created' => 'Faleminderit që krijuat çështje të re!',
+
+    //Home Page
+    'home_page_description1'=>'Të dashur qytetarë të Republikës së Kosovës',
+    'home_page_description2'=>'ePjesëmarrja është platformë gjithëpërfshirëse
+    e cila synon të angazhojë qytetarët në vendimmarrje dhe ju ofron çasje në shërbime publike, 
+    duke shqyrtuar çështjet e dërguara tek Anëtarët e Kuvendit, duke ndjekur aktivitetet
+    e Kuvendit dhe duke dorëzuar drejtpërdrejt formularët elektronik. ',
+    
+    //Visit & Attend Page (forms.blade.php)
+    'visit_page_description1'=>'A dëshironi që të bëheni pjesë e ndonjë  takimi plenar apo të bëni një vizitë në Kuvendin e Republikës së Kosovës?',
+    'visit_page_description2'=>'Ju lutem, plotësoni formularin më poshtë dhe një person kontakti nga Kuvendi
+     i Republikës së Kosovës do të trajtojë kërkesën tuaj dhe do të ju njoftojë përmes emailit. ',
+
+     //Agenda (activities.blade.php)
+     'agenda_page_description1'=>'A dëshironi të dini më shumë rreth agjendës së Kuvendit të Republikës së Kosovës?',
+     'agenda_page_description2'=>'Shikoni kalendarin më poshtë për të marrë më shumë informacione në lidhje me seancat 
+     plenare, ngjarjet, konferencat dhe ndodhitë e tjera të zbatuara nga Kuvendi i Republikës së Kosovës.',
+     'agenda_page_description3'=>'Nëse dëshironi të jeni pjesë e ndonjë prej ngjarjeve që Kuvendi i Republikës së Kosovës po organizon,
+      ju lutemi zgjidhni ngjarjen specifike për të cilën jeni të interesuar dhe shtypni butonin ‘apliko’.',
 
     //About Page
     'about_title'=> 'Rreth Platformës',

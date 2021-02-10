@@ -10,11 +10,9 @@
             <p style="font-weight:bold; font-size:20px;">@lang('translator.republicofKosovo')</p>
             <p style="font-weight:bold; font-size:20px; ">@lang('translator.assemblyofKosovo')</p>
             <hr>
-            <div class="w-100 mt-3">
-                @if($content::returnContentValue('issue_description') && $content::returnContentValue('issue_description')->description)
-                    {!! $content::returnContentValue('issue_description')->description !!}
-                    @endif
-            </div>
+            <p>@lang('translator.home_page_description1')</p>
+            <p>@lang('translator.home_page_description2') </p>
+            <p>@lang('translator.home_page_description3') </p>
             <hr>
             </div>
        

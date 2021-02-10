@@ -180,10 +180,33 @@ return [
     'confirm_password_label'=> 'Pre nastavka potvrdite lozinku.',
     'confirm_password' =>'Potvrdite lozinku',
 
+  
+    //Home Page
+    'home_page_description1'=>'Dragi građani Republike Kosovo,',
+    'home_page_description2'=>'Elektronsko učešće je inkluzivna platforma
+    koja ima za cilj da uključi građane u donošenje odluka i pružanje javnih
+    usluga podnošenjem pitanja određenim poslanicima u Skupštini, prateći 
+    aktivnosti Skupštine, i direktnim podnošenjem elektronskih obrazaca.',
+    'home_page_description3'=>'Možete da koristite donji obrazac da pokrenete
+    bilo koje pitanje na koje želite da Skupština i članovi Skupštine odgovore.',
+  
+    //Visit & Attend Page (forms.blade.php)
+    'visit_page_description1'=>'Da li želite da budete deo plenarnog sastanka ili da posetite Skupštinu Republike Kosovo?',
+    'visit_page_description2'=>'Molimo vas da popunite donji obrazac i kontakt osoba iz Skupštine Republike Kosovo će obraditi vaš zahtev i obavestiti vas putem e-pošte.',
+
+     //Agenda (activities.blade.php)
+    'agenda_page_description1'=>'Da li želite da saznate više o dnevnom redu Skupštine Republike Kosovo?',
+    'agenda_page_description2'=>'Da biste prisustvovali (naslovu), prvo se prijavite popunjavanjem dole navedenih podataka.
+     Osoblje iz Skupštine Kosova će se pozabaviti ovim zahtevima i obavestiće vas sa odgovorom.',
+    'agenda_page_description3'=>'Pogledajte donji kalendar da biste dobili više informacija u vezi sa plenarnim sednicama, 
+    događajima, konferencijama i drugim događajima koje sprovodi Skupština Republike Kosovo.',
+
      //About Page
-     'about_title'=> 'Rreth Platformës',
+     'about_title'=> 'O platformis',
 
      //Contact Page
-     'contact_title'=>'Kontakto',
+     'contact_title'=>'Kontakt',
+
+     
 
 ];
