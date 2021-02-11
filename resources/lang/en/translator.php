@@ -162,7 +162,7 @@ return [
     to engage citizens in decision-making and public service delivery
     by submitting issues to specific Members of the Assembly, 
     following the activities of the Assembly, and directly submitting electronic forms. ',
-    'home_page_description3'=>'You may use the form below to raise any issue that you want the Assembly and Members of Assembly to address.',
+    'home_page_description3'=>'Do you have any issues or dissatisfaction that you want to share with the members of the Assembly of Kosovo? You have the opportunity to express it in the form below.',
 
     //Visit & Attend Page (activities.blade.php)
     'visit_page_description1'=>'Do you want to be part of a plenary meeting or pay a visit to the Assembly of the Republic of Kosovo?',

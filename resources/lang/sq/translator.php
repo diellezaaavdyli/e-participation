@@ -154,6 +154,7 @@ return [
     e cila synon të angazhojë qytetarët në vendimmarrje dhe ju ofron çasje në shërbime publike, 
     duke shqyrtuar çështjet e dërguara tek Anëtarët e Kuvendit, duke ndjekur aktivitetet
     e Kuvendit dhe duke dorëzuar drejtpërdrejt formularët elektronik. ',
+    'home_page_description3'=>'A keni ndonjë çështje apo pakënaqësi që dëshironi të ndani me anëtarët e Kuvendit të Kosovës? Ju keni mundësinë të shkruani në formën më poshtë.',
     
     //Visit & Attend Page (forms.blade.php)
     'visit_page_description1'=>'A dëshironi që të bëheni pjesë e ndonjë  takimi plenar apo të bëni një vizitë në Kuvendin e Republikës së Kosovës?',

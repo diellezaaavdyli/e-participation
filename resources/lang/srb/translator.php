@@ -201,8 +201,7 @@ return [
     koja ima za cilj da uključi građane u donošenje odluka i pružanje javnih
     usluga podnošenjem pitanja određenim poslanicima u Skupštini, prateći 
     aktivnosti Skupštine, i direktnim podnošenjem elektronskih obrazaca.',
-    'home_page_description3'=>'Možete da koristite donji obrazac da pokrenete
-    bilo koje pitanje na koje želite da Skupština i članovi Skupštine odgovore.',
+    'home_page_description3'=>'Da li imate pitanja ili nezadovoljstvo koje želite da podelite sa poslanicima u Skupštini Kosova? Imate priliku da pišete u donjem obliku',
   
     //Visit & Attend Page (forms.blade.php)
     'visit_page_description1'=>'Da li želite da budete deo plenarnog sastanka ili da posetite Skupštinu Republike Kosovo?',
