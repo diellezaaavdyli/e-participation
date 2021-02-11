@@ -119,7 +119,7 @@ return [
       'label_phone' => 'Telefon',
       'label_comment' => 'Komentar',
       'label_description' => 'Oznake',
-      'label_tag' => 'Tags',
+      'label_tag' => 'Izaberite ključnu reč',
       'leave_a_comment'=> 'Ostavite komentar',
       'search_placeholder'=>'Ukucajte ključnu reč i pritisnite enter',
       'placelholder_form_name' => 'Osoba, institucija, organizacija, škola ...',
