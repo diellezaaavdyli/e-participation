@@ -267,7 +267,7 @@ return [
      'contact_address_h2_p3'=>'Prishtinë (10000)',
 
      'contact_contact'=>'Kontakt',
-     'contact_contact_p_1'=>'',
+     'contact_contact_p_1'=>'Kabinet predsednika Skupštine',
      'contact_contact_p_2'=>'Kancelarija Generalnog sekretara <br>038 211 366',
      'contact_contact_p_3'=>'Opšta Direkcija za Administraciju<br> 038 211 343',
      'contact_contact_p_4'=>'Opšta Direkcija za Pravna i Proceduralna Pitanja <br>038 211 185',
