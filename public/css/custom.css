@@ -873,9 +873,11 @@ height: 565px !important;
     color:white;
     padding:5px;
     border-radius: 3px;
+   
 }
 .about-page ul{
     list-style-type: none;
     padding: 0;
+    font-size: 15px;
 }
 

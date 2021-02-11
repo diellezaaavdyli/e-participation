@@ -13,11 +13,11 @@
             <p style="text-align:center;">@lang('translator.eParticipation')</p>
           
             <h4 style="font-weight:bold;">@lang('translator.contact_address')</h4>
-            <span style="font-weight:bold;">@lang('translator.contact_address_h_1')</span><br><span style=" font-size:12px;">Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)<br></span>
-            <span style="font-weight:bold;"> @lang('translator.contact_address_h_2')</span><span style=" font-size:12px;"><br>Kuvendi i Kosovës<br>Rruga UÇK nr. 65<br>Prishtinë (10000)</span>
+            <span style="font-weight:bold;">@lang('translator.contact_address_h_1')</span><br><span style=" font-size:15px;">Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)<br></span><br>
+            <span style="font-weight:bold;"> @lang('translator.contact_address_h_2')</span><span style=" font-size:15px;"><br>Kuvendi i Kosovës<br>Rruga UÇK nr. 65<br>Prishtinë (10000)</span>
 
 
-         <h4>@lang('translator.contact_contact')</h4>   
+         <h4 style="margin-top:16px;">@lang('translator.contact_contact')</h4>   
          <ul>
          <li style="font-weight:600;"><a href="http://www.kuvendikosoves.org/shq/kryetari-i-kuvendit/">@lang('translator.contact_contact_p_1')</a></li>
          <li style="font-weight:600;"><a href="http://www.kuvendikosoves.org/shq/administrata/zyra-e-sekretarit-te-pergjithshem/">@lang('translator.contact_contact_p_2')</a></li>    
