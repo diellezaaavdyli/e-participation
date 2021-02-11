@@ -23,9 +23,9 @@
 
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@lang('translator.about_p_3')</p>
 
-
-        <img src="img/NED.png" width=100px; height:100px; style="padding-bottom:15px; ">
-
+        <br>
+        <img src="img/NED.jpg" width=300px;  style="padding-bottom:15px; ">
+        <br><br>
         <h4>@lang('translator.about_important_docs')</h4>
         <ul style="text-align:left;">
             <li><a href="http://www.kuvendikosoves.org/Uploads/Data/Files/6/KushtetutaeRepublikesseKosoves_nJ4SXNnEAT.pdf">@lang('translator.about_important_docs_1')</a></li>

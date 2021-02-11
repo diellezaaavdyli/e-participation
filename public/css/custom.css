@@ -867,4 +867,15 @@ height: 565px !important;
     padding: 22px 111px 0px;
 }
 
+.about-page h4{
+    font-weight: bold;
+    background-color: #4169e1;
+    color:white;
+    padding:5px;
+    border-radius: 3px;
+}
+.about-page ul{
+    list-style-type: none;
+    padding: 0;
+}
 
