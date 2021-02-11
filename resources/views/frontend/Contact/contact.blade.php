@@ -13,11 +13,11 @@
             <p style="text-align:center;">@lang('translator.eParticipation')</p>
 
             <h3>@lang('translator.contact_address')</h3>
-            <p>@lang('translator.contact_address_h_1') Hyrja e parë:<br>Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)</p>
-            <p> @lang('translator.contact_address_h_2')Hyrja e dytë:<br>Kuvendi i Kosovës<br>Rruga UÇK nr. 65<br>Prishtinë (10000)</p>
+            <p>@lang('translator.contact_address_h_1')<br>Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)</p>
+            <p> @lang('translator.contact_address_h_2')<br>Kuvendi i Kosovës<br>Rruga UÇK nr. 65<br>Prishtinë (10000)</p>
 
 
-         <h3 style="background-color:#1C3693; color:white;">@lang('translator.contact_contact')Kontakti</h3>   
+         <h3 style="background-color:#1C3693; color:white;">@lang('translator.contact_contact')</h3>   
          <ul>
          <li><a href="http://www.kuvendikosoves.org/shq/kryetari-i-kuvendit/">@lang('translator.contact_contact_p_1')</a></li>
          <li><a href="http://www.kuvendikosoves.org/shq/administrata/zyra-e-sekretarit-te-pergjithshem/">@lang('translator.contact_contact_p_2')</a></li>    
