@@ -178,10 +178,73 @@ return [
 
      //About Page
      'about_title'=> 'About',
+     'about_main_menu'=>'This platform consists of three categories listed in the main menu: ',
+     'about_li_1'=>'Home;',
+     'about_li_2'=>'Agenda;',
+     'about_li_3'=>'Visit & Attend.',
+
+     'about_p_1'=>'The Home bar directs the citizens to the main page of this platform 
+     where they can address an issue to a respective member of the Assembly,
+     or to the Assembly institution as a whole where a respective member of the Assembly
+     will respond to each issue respectively. When navigating through the home page,
+     citizens can address an issue using the form by first writing a title of the issue,
+     then describing the issue including as much details as necessary. When scrolling down,
+     the citizens can see the issues listed by the latest issues in the top. The citizens 
+     then can press read more to see the issue and the response towards that issue. 
+     If a third party user wants to see the issues submitted in the platform in order to 
+     check how they have been addressed, they can use the keyword section, by selecting a
+     keyword and submitting, so that the issue that contains that keyword pops up. ',
+
+     'about_p_2'=>'The Agenda bar directs the citizens to the page containing the
+     agenda of the Assembly of the Republic of Kosovo. Citizens can
+     apply to be part of any event showcased in the calendar by choosing 
+     the event and pressing attend. In order to attend the event the citizens 
+     should first apply by filling the information required. As soon as their 
+     request is submitted, the staff from the Assembly of the Republic of Kosovo
+     will handle the requests and notify them with a response.',
+
+     'about_p_3'=>'The Visit & Attend bar directs the citizens to the page where they can 
+      request to attend a plenary meeting or merely pay a visit to the Assembly
+      of the Republic of Kosovo. In order to do so, the citizens should first fill 
+      in the form in the page and a contact point from the Assembly of the Republic 
+      of Kosovo will handle their requests and notify them via email.',
+     
+     'about_important_docs'=>'Important documents',
+     'about_important_docs_1'=>'The Constitution of the Republic of Kosovo',
+     'about_important_docs_2'=>'The Flag of the Republic of Kosovo',
+     'about_important_docs_3'=>'The Seal of the Republic of Kosovo',
+     'about_important_docs_4'=>'Rules of Procedure of the Assembly of Kosovo Republic',
+     'about_important_docs_5'=>'Anthem of the Kosovo Republic',
 
      //Contact Page
      'contact_title'=>'Contact',
-    
+
+     'contact_address'=>'Address',
+     'contact_address_h_1'=>'Entrance I',
+     'contact_address_h1_p1'=>'Kuvendi i Kosovës',
+     'contact_address_h1_p2'=>'Sheshi IBRAHIM RUGOVA nr. 5',
+     'contact_address_h1_p3'=>'Prishtinë (10000)',
+
+     'contact_address_h_2'=>'Entrance II',
+     'contact_address_h2_p1'=>'Kuvendi i Kosovës',
+     'contact_address_h2_p2'=>'Rruga UÇK nr. 65',
+     'contact_address_h2_p3'=>'Prishtinë (10000)',
+
+     'contact_contact'=>'Contact',
+     'contact_contact_p_1'=>'Cabinet of the Assembly President',
+     'contact_contact_p_2'=>'Office of the Assembly Secretary<br>038 211 366',
+     'contact_contact_p_3'=>'The general Directory for Administration<br>038 211 343',
+     'contact_contact_p_4'=>'General Directory for Legal and Procedural Affairs <br>038 211 185',
+     'contact_contact_p_5'=>'Directorate for Media and Public Relations<br>038 211 186',
+   
+
+     'direct_contact'=>'Live stream',
+     'direct_contact_p_1'=>'Presidency',
+     'direct_contact_p_2'=>'Prime Minister’s Office',
+     'direct_contact_p_3'=>'Central Election Commission',
+     'direct_contact_p_4'=>'Webmail',
+     'direct_contact_p_5'=>'Sitemap',
+  
     //Comments Admin
 
     'delete_comment_popup_title' => 'Delete Comment', 

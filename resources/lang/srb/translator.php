@@ -217,9 +217,69 @@ return [
 
      //About Page
      'about_title'=> 'O platformis',
+     'about_main_menu'=>'Ova platforma se sastoji od tri kategorije navedene u glavnom meniju:',
+     'about_li_1'=>'Naslovna strana;',
+     'about_li_2'=>'Dnevni red;',
+     'about_li_3'=>'Posetite i učestvujte.',
+
+     'about_p_1'=>'Glavna kolona usmerava građane na glavnu stranicu ove platforme gde mogu da se
+      obrate određenom članu Skupštine ili skupštinskoj instituciji u celini gde će odgovarajući
+      član Skupštine odgovoriti na svako pitanje. Prilikom kretanja kroz Naslovnu stranicu, građani
+      mogu da se obrate problemu koristeći obrazac tako što će prvo napisati naslov Pitanja, a zatim
+      opisati problem, uključujući onoliko detalja koliko je potrebno. Prilikom pomeranja nadole, 
+      građani mogu da vide probleme nabrojane u poslednjim izdanjima u vrhu. Tada građani mogu pritisnuti
+      da pročitaju više kako bi videli problem i odgovor na to pitanje. Ako korisnik treće strane želi
+      da vidi probleme koji su podneti na platformi kako bi proverio kako su rešeni, može da koristi 
+      odeljak za ključne reči tako što će izabrati ključnu reč i poslati je, tako da će pojaviti 
+      problem koji sadrži tu ključnu reč.',
+
+     'about_p_2'=>'Kolona Naslovne strane usmerava građane na stranicu koja sadrži dnevni red Skupštine
+      Republike Kosovo. Građani se mogu prijaviti da budu deo bilo kog događaja prikazanog u kalendaru
+      izborom događaja i pritiskom na prisustvo. Da bi prisustvovali događaju, građani bi trebalo da
+      se prijave prvo popunjavanjem potrebnih podataka. Čim se podnese njihov zahtev, osoblje iz
+      Skupštine Republike Kosovo će se baviti zahtevima i obavestiće ih odgovorom.',
+
+     'about_p_3'=>'Kolona Posetite i učestvujte usmerava građane na stranicu na kojoj mogu zahtevati da
+      prisustvuju plenarnom sastanku ili samo da posete Skupštinu Republike Kosovo. Da bi to učinili,
+      građani prvo treba da popune obrazac na stranici, a kontakt osoba iz Skupštine Republike Kosovo
+      obradiće njihove zahteve i obavestiti ih putem e-pošte.',
+     
+     'about_important_docs'=>'Važni dokumenti',
+     'about_important_docs_1'=>'Ustav Republike Kosovo',
+     'about_important_docs_2'=>'Zastava Republike Kosovo',
+     'about_important_docs_3'=>'Grb Republike Kosovo',
+     'about_important_docs_4'=>'Himna Republike Kosova',
+     'about_important_docs_5'=>'Poslovnik Skupštine Republike Kosova',
 
      //Contact Page
      'contact_title'=>'Kontakt',
+
+     'contact_address'=>'Adresa',
+     'contact_address_h_1'=>'Ulaz I',
+     'contact_address_h_1'=>'Entrance I',
+     'contact_address_h1_p1'=>'Kuvendi i Kosovës',
+     'contact_address_h1_p2'=>'Sheshi IBRAHIM RUGOVA nr. 5',
+     'contact_address_h1_p3'=>'Prishtinë (10000)',
+
+     'contact_address_h_2'=>'Ulaz II',
+     'contact_address_h2_p1'=>'Kuvendi i Kosovës',
+     'contact_address_h2_p2'=>'Rruga UÇK nr. 65',
+     'contact_address_h2_p3'=>'Prishtinë (10000)',
+
+     'contact_contact'=>'Kontakt',
+     'contact_contact_p_1'=>'',
+     'contact_contact_p_2'=>'Kancelarija Generalnog sekretara <br>038 211 366',
+     'contact_contact_p_3'=>'Opšta Direkcija za Administraciju<br> 038 211 343',
+     'contact_contact_p_4'=>'Opšta Direkcija za Pravna i Proceduralna Pitanja <br>038 211 185',
+     'contact_contact_p_5'=>'Direkcija za Medije i OIdnose s Javnošću <br>038 211 186',
+  
+
+     'direct_contact'=>'Direktna veza',
+     'direct_contact_p_1'=>'Predsjedništvo',
+     'direct_contact_p_2'=>'Ured premijera',
+     'direct_contact_p_3'=>'Centrala Izborna Komisija',
+     'direct_contact_p_4'=>'Webmail',
+     'direct_contact_p_5'=>'Karta stranice',
 
      
 

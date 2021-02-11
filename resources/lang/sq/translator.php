@@ -169,9 +169,67 @@ return [
 
     //About Page
     'about_title'=> 'Rreth Platformës',
+    'about_main_menu'=>'Kjo platformë përbëhet nga tre kategori të listuara në faqën kryesore:',
+    'about_li_1'=>'Ballina;',
+    'about_li_2'=>'Agjenda;',
+    'about_li_3'=>'Vizitoni & Merrni pjesë.',
+
+    'about_p_1'=>'Butoni i Ballinës drejton qytetarët në faqen kryesore të kësaj platforme ku ata mund
+    t\'i drejtojnë një çështje një anëtari përkatës të Kuvendit, ose institucionit të Kuvendit në tërësi,
+    ku një anëtar përkatës i Kuvendit do t\'i përgjigjet secilës çështje përkatësisht. Gjatë navigimit 
+    në faqen kryesore, qytetarët mund të adresojnë një çështje duke përdorur formularin duke shkruar së 
+    pari një titull të çështjes pastaj duke përshkruar çështjen duke përfshirë sa më shumë detaje të nevojshme.
+    Kur lëvizin poshtë, qytetarët mund të shohin çështjet e renditura nga botimet më të fundit në krye.
+    Qytetarët mund të shtypin butonin më shumë për të parë çështjen dhe përgjigjen ndaj kësaj çështje.
+    Nëse një përdorues i një pale të tretë dëshiron të shohë çështjet e paraqitura në platformë për të 
+    kontrolluar se si janë adresuar, ata mund të përdorin pjesën e fjalëve kyçe, duke zgjedhur një fjalë 
+    kyçe dhe duke paraqitur, në mënyrë që të shfaqet çështja që përmban atë fjalë kyçe.',
+
+    'about_p_2'=>'Butoni i Agjendës drejton qytetarët në faqen që përmban agjendën e Kuvendit të Republikës
+    së Kosovës. Qytetarët mund të aplikojnë për të qenë pjesë e çdo ngjarjeje të shfaqur në kalendar duke zgjedhur
+    ngjarjen dhe duke shtypur pjesëmarrjen. Në mënyrë që të marrin pjesë në ngjarje, qytetarët duhet së pari të
+    aplikojnë duke plotësuar informacionin e kërkuar. Sapo të paraqitet kërkesa e tyre, stafi nga Kuvendi i 
+    Republikës së Kosovës do të merret me kërkesat dhe do t\'i njoftojë ata me një përgjigje',
+
+    'about_p_3'=>'Buttoni Vizitoni & Merr Pjesë drejton qytetarët në faqen ku ata mund të kërkojnë të marrin
+    pjesë në një mbledhje plenare ose thjesht të bëjnë një vizitë në Kuvendin e Republikës së Kosovës. Për ta
+    bërë këtë, qytetarët duhet së pari të plotësojnë formularin në faqe dhe një pikë kontakti nga Kuvendi i
+    Republikës së Kosovës do të trajtojë kërkesat e tyre dhe do t\'i njoftojë ato me email.',
+    
+    'about_important_docs'=>'Dokumente të rëndësishme:',
+    'about_important_docs_1'=>'Kushtetuta e Republikës së Kosovës',
+    'about_important_docs_2'=>'Flamuri i Republikës së Kosovës',
+    'about_important_docs_3'=>'Stema e Republikës së Kosovës',
+    'about_important_docs_4'=>'Himni i Republikës së Kosovës',
+    'about_important_docs_5'=>'Rregullorja e Kuvendit të Republikës së Kosovës',
 
     //Contact Page
     'contact_title'=>'Kontakto',
+
+    'contact_address'=>'Adresa',
+     'contact_address_h_1'=>'Hyrja e parë:',
+     'contact_address_h1_p1'=>'Kuvendi i Kosovës',
+     'contact_address_h1_p2'=>'Sheshi IBRAHIM RUGOVA nr. 5',
+     'contact_address_h1_p3'=>'Prishtinë (10000)',
+
+     'contact_address_h_2'=>'Hyrja e dytë:',
+     'contact_address_h2_p1'=>'Kuvendi i Kosovës',
+     'contact_address_h2_p2'=>'Rruga UÇK nr. 65',
+     'contact_address_h2_p3'=>'Prishtinë (10000)',
+
+     'contact_contact'=>'Kontakti',
+     'contact_contact_p_1'=>'Kabineti i Kryetarit të Kuvendit',
+     'contact_contact_p_2'=>'Zyra e Sekretarit të Kuvendit<br>038 211 366',
+     'contact_contact_p_3'=>'Drejtoria e Përgjithshme e Administratës<br> 038 211 343',
+     'contact_contact_p_4'=>'Drejtoria e Përgjithshme për Çështje Ligjore dhe Procedurale<br> 038 211 185',
+     'contact_contact_p_5'=>'Drejtoria për Media dhe Marrëdhënie me Publikun <br>038 211 186',
+  
+     'direct_contact'=>'Lidhje Direkte',
+     'direct_contact_p_1'=>'Presidenca',
+     'direct_contact_p_2'=>'Zyra e Kryeministrit',
+     'direct_contact_p_3'=>'Komisioni Qendror i Zgjedhjeve',
+     'direct_contact_p_4'=>'Webmail',
+     'direct_contact_p_5'=>'Harta e faqes së Kuvendit',
     
     //Comments Admin
 
