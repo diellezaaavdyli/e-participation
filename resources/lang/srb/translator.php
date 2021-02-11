@@ -56,9 +56,9 @@ return [
     'form_page_description' => 'Opis stranice obrasca',
     'sidebar_description' => 'Opis bočne trake',
     'editing'=>'Uređivanje',
-    'copyright' => 'Autorsko pravo',
+    'copyright' => 'Skupština Republike Kosovo',
     'right_reserved' => 'Sva prava zadržana',
-    'powered_by' => 'Pokreće ga',
+    'powered_by' => 'Open Data Kosovo',
 
       'log_in_button'=>'Prijavite se',
       'sign_up_button'=>'Upišite se',
