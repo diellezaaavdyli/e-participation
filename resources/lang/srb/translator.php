@@ -193,6 +193,7 @@ return [
     'send_password_reset_link'=>'Pošaljite vezu za ponovno postavljanje lozinke',
     'confirm_password_label'=> 'Pre nastavka potvrdite lozinku.',
     'confirm_password' =>'Potvrdite lozinku',
+    'nothing_selected'=>'Ništa nije odabrano!',
 
   
     //Home Page
