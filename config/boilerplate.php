@@ -148,7 +148,7 @@ return [
          */
         'languages' => [
             'en' => ['name' => 'English', 'rtl' => false],
-            'sq' => ['name' => 'Albanian', 'rtl' => false],
+            'sq' => ['name' => 'Shqip', 'rtl' => false],
             'srb' => ['name' => 'Serbian', 'rtl' => false],
         ],
     ],

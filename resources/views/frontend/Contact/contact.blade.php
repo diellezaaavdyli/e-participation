@@ -13,7 +13,7 @@
             <p style="text-align:center;">@lang('translator.eParticipation')</p>
           
             <h4 style="font-weight:bold;">@lang('translator.contact_address')</h4>
-            <span style="font-weight:bold;">@lang('translator.contact_address_h_1')</span><br><span style=" font-size:14px;">Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)<br></span><br>
+            <span style="font-weight:bold;">@lang('translator.contact_address_h_1')</span><br><span style=" font-size:14px;">Kuvendi i Kosovës<br>Sheshi IBRAHIM RUGOVA nr. 5<br>Prishtinë (10000)<br></span>
             <span style="font-weight:bold;"> @lang('translator.contact_address_h_2')</span><span style=" font-size:14px;"><br>Kuvendi i Kosovës<br>Rruga UÇK nr. 65<br>Prishtinë (10000)</span>
 
 
