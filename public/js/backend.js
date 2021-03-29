@@ -10700,7 +10700,7 @@ $(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/korabqarri/Desktop/Barok/odk-boilerplate/resources/js/backend/app.js */"./resources/js/backend/app.js");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\e-participation\resources\js\backend\app.js */"./resources/js/backend/app.js");
 
 
 /***/ })

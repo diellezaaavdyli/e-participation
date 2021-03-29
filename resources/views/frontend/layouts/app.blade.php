@@ -71,7 +71,7 @@
                     icon="c-icon  cil-account-logout"
                     href="{{route('admin.dashboard')}}">
                     <x-slot name="text">
-                       Admin
+                      Dashboard
                     </x-slot>
             </x-utils.link>
         </li>
