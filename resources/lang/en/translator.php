@@ -126,7 +126,7 @@ return [
     'label_comment' => 'Comment',
     'label_image' => 'Image',
     'label_description' => '',
-    'label_tag' => 'Please select a keyword',
+    'label_tag' => 'Please select below who is most relevant to answer your question?',
     'label_header' => 'Header',
     'label_body' => 'Body',
     'leave_a_comment'=> 'Leave a Comment',
