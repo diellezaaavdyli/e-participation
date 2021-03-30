@@ -16,11 +16,15 @@
                         @lang('translator.verify_email_question_part_1')
 
                         <x-forms.post :action="route('frontend.auth.verification.resend')" class="d-inline">
-                            <button class="btn btn-link p-0 m-0 align-baseline" type="submit">@lang('translator.verify_email_question_part_2').</button>
+                            <button class="btn btn-link p-0 m-0 align-baseline" style="color:#0000fe;"
+                                type="submit">@lang('translator.verify_email_question_part_2').</button>
                         </x-forms.post>
                     </x-slot>
                 </x-frontend.card>
-            </div><!--col-md-8-->
-        </div><!--row-->
-    </div><!--container-->
+            </div>
+            <!--col-md-8-->
+        </div>
+        <!--row-->
+    </div>
+    <!--container-->
 @endsection
